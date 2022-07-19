@@ -1,5 +1,4 @@
-### Hi there 👋
-### My name is Keshav Raviprakash.
+<h1 align = "center" > Hi there 👋. My name is Keshav Raviprakash. </h1>
 <!--
 **keshra123/keshra123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
