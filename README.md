@@ -1,5 +1,5 @@
 <h1 align = "center" > Hi there 👋. My name is Keshav Raviprakash. </h1>
-<p> I'm a fourth year Computer Systems Engineeiring major at the University of Georgia. I love to volunteer, research, and learn. If you would like to reach out to me, please feel free to reach out to me at keshra123@gmail.com. </p> 
+<p> I'm a fourth year @ the University of Georgia majoring in Computer Systems Engineering. I love to volunteer, research, and learn. If you would like to reach out to me, please feel free to reach out to me at keshra123@gmail.com. </p> 
 **keshra123/keshra123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
